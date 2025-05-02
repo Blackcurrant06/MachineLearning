@@ -45,7 +45,7 @@ File clustering_models.py mencakup implementasi model clustering untuk segmentas
 - DBSCAN
 - Gaussian Mixture Model (GMM)
 - Spectral Clustering
-###📊 Perbandingan Model Clustering
+### 📊 Perbandingan Model Clustering
 | Model                    | Kelebihan                                | Kekurangan                                                      |
 | ------------------------ | ---------------------------------------- | --------------------------------------------------------------- |
 | KMeans                   | Cepat, efisien untuk dataset besar       | Asumsi bentuk cluster bulat, sensitif terhadap outlier          |
