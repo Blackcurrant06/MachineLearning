@@ -55,6 +55,25 @@ File clustering_models.py mencakup implementasi model clustering untuk segmentas
 | Spectral Clustering      | Menangani cluster non-konveks            | Memerlukan jumlah cluster awal, mahal secara komputasi          |
 
 
+## ✅ Contoh Penggunaan Ideal
+- Linear Regression: Memprediksi harga rumah berdasarkan ukuran dan lokasi.
+- Polynomial Regression: Memprediksi pertumbuhan populasi dengan tren non-linear.
+- Decision Tree Regressor: Memprediksi pendapatan berdasarkan usia dan pendidikan.
+- KNN Regressor: Memprediksi rating film berdasarkan preferensi pengguna serupa.
+- Bagging Regressor: Memprediksi hasil panen berdasarkan berbagai faktor cuaca.
+- Boosting Regressor: Memprediksi risiko kredit berdasarkan riwayat keuangan.
+- SVR: Memprediksi harga saham dengan data berdimensi tinggi.
+- Logistic Regression: Memprediksi kemungkinan penyakit berdasarkan gejala.
+- Decision Tree Classifier: Memprediksi kelayakan pinjaman berdasarkan profil peminjam.
+- KNN Classifier: Memprediksi jenis bunga berdasarkan panjang dan lebar kelopak.
+- Bagging Classifier: Memprediksi churn pelanggan berdasarkan perilaku penggunaan.
+- Boosting Classifier: Memprediksi penipuan transaksi keuangan.
+- SVM: Memprediksi jenis email (spam atau tidak) berdasarkan konten.
+- KMeans: Segmentasi pelanggan berdasarkan perilaku pembelian.
+- Agglomerative Clustering: Analisis hierarki spesies berdasarkan karakteristik genetik.
+- DBSCAN: Deteksi anomali dalam data lalu lintas jaringan.
+- Gaussian Mixture Model: Segmentasi gambar berdasarkan distribusi warna.
+- Spectral Clustering: Deteksi komunitas dalam jaringan sosial.
 
 
 
