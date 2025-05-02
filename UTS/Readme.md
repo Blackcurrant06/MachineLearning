@@ -20,7 +20,7 @@ File regression_models.py mencakup implementasi model regresi untuk memprediksi 
 | Bagging Regressor       | Mengurangi overfitting, meningkatkan stabilitas | Kompleksitas model meningkat, interpretasi sulit        |
 | Boosting Regressor      | Akurasi tinggi, menangani bias dan varians      | Rentan overfitting, sensitif terhadap noise             |
 | SVR                     | Efektif untuk data berdimensi tinggi            | Memerlukan tuning parameter, lambat untuk dataset besar |
-
+  
 ## 2. Model Klasifikasi
 File classification_models.py mencakup implementasi model klasifikasi untuk memprediksi label kategorikal menggunakan algoritma berikut:
 - Logistic Regression
@@ -53,8 +53,7 @@ File clustering_models.py mencakup implementasi model clustering untuk segmentas
 | DBSCAN                   | Menangani cluster dengan bentuk arbitrer | Sensitif terhadap parameter ε dan MinPts                        |
 | Gaussian Mixture Model   | Menangani cluster yang tumpang tindih    | Sensitif terhadap inisialisasi, dapat konvergen ke solusi lokal |
 | Spectral Clustering      | Menangani cluster non-konveks            | Memerlukan jumlah cluster awal, mahal secara komputasi          |
-
-
+  
 ## ✅ Contoh Penggunaan Ideal
 - Linear Regression: Memprediksi harga rumah berdasarkan ukuran dan lokasi.
 - Polynomial Regression: Memprediksi pertumbuhan populasi dengan tren non-linear.
