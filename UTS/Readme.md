@@ -1,5 +1,5 @@
 # 📂Folder ujian Tengah Semester Model Machine Learning
-Proyek ini terdiri dari tiga file utama yang mencakup berbagai model machine learning untuk tugas regresi, klasifikasi, dan clustering. Setiap file berisi implementasi beberapa algoritma dengan pendekatan yang berbeda.
+Folder ini terdiri dari tiga file utama yang mencakup berbagai model machine learning untuk tugas regresi, klasifikasi, dan clustering. Setiap file berisi implementasi beberapa algoritma dengan pendekatan yang berbeda.
 
 ## 1. Model Regresi
 File regression_models.py mencakup implementasi model regresi untuk memprediksi nilai kontinu menggunakan algoritma berikut:
