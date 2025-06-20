@@ -35,11 +35,8 @@ d. Evaluasi menggunakan matriks RMSE, MSE, R-squared, serta visualisasi nilai pr
 ### Perbandingan Model Regresi (TensorFlow vs PyTorch)
 
 | Framework  | Kelebihan                                 | Kekurangan                                  |
-
 |------------|-------------------------------------------|---------------------------------------------|
-
 | TensorFlow | High-level API (Keras) mudah digunakan    | Lebih berat, kurang fleksibel untuk riset   |
-
 | PyTorch    | Fleksibel, dinamis, mudah debug           | Kurangnya high-level API yang matang        |
 
 ## 2. Model Klasifikasi (`Klasifikasi.ipynb`)
@@ -59,11 +56,8 @@ d. Evaluasi menggunakan matriks Akurasi, Presisi, Recall, F1-Score, serta visual
 ### Perbandingan Model Klasifikasi (TensorFlow vs PyTorch)
 
 | Framework  | Kelebihan                                 | Kekurangan                                  |
-
 |------------|-------------------------------------------|---------------------------------------------|
-
 | TensorFlow | Dukungan produksi yang baik               | Kurang intuitif untuk pemula                |
-
 | PyTorch    | Kode lebih Pythonic, populer di riset     | Dukungan deployment yang kurang dibanding TF|
 
 ## 3. Model CNN (`CNN.ipynb`)
@@ -83,8 +77,6 @@ d. Evaluasi menggunakan matriks Akurasi, Presisi, Recall, F1-Score, AUC-ROC, ser
 ### Perbandingan Model CNN (hanya TensorFlow)
 
 | Model      | Kelebihan                                 | Kekurangan                                  |
-
 |------------|-------------------------------------------|---------------------------------------------|
-
 | CNN        | Sangat baik untuk data gambar             | Memerlukan data dalam jumlah besar          |
 
